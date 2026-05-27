@@ -1,7 +1,6 @@
 # Projeto All For One
 
-# Habilidades
-Nesse projeto procuro:
+## Habilidades adquiridas
 
 - Entender o que são bancos de dados
 - Entender como a linguagem de consulta estruturada (SQL) é usada
@@ -27,7 +26,7 @@ Nesse projeto procuro:
 - Atualizar dados em tabelas com `UPDATE`
 - Apagar dados em tabelas com `DELETE`
 
-# Instruções para restaurar o banco de dados `Northwind`
+## Instruções para restaurar o banco de dados `Northwind`
 
 1. Faça o download do arquivo de backup [aqui](northwind.sql) clicando em "Raw", depois clicando com botão direito e selecionando "Salvar como" para salvar o arquivo em seu computador.
 2. Abra o arquivo com algum editor de texto, e selecione todo o conteúdo do arquivo usando `CTRL-A`.
